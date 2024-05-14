@@ -1,8 +1,0 @@
-#include "./Carre.h"
-#include "./Cercle.h"
-#include "./Cube.h"
-#include "./Cylindre.h"
-#include "./Point.h"
-#include "./Point3D.h"
-#include "./Rectangle.h"
-#include "./Sphere.h"
